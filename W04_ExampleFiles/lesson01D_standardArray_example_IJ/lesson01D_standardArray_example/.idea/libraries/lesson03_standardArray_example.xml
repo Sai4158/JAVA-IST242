@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lesson03_standardArray_example">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lesson03_standardArray_example/dist/lesson03_standardArray_example.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

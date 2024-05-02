@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_45" class="java.beans.XMLDecoder">
+ <string>Hey I am a string living on an xml file</string>
+ <string>Fred made me do it!</string>
+ <int>1855</int>
+</java>

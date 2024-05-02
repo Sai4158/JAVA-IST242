@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="W04_ExampleFiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lesson01D_ArrayList_example_IJ.zip!/" />
+      <root url="jar://$PROJECT_DIR$/lesson01D_standardArray_example_IJ.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

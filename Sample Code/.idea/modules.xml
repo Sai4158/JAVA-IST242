@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Graphics_example_01_simplePanel-1/Graphics_example_01_simplePanel-1.iml" filepath="$PROJECT_DIR$/Graphics_example_01_simplePanel-1/Graphics_example_01_simplePanel-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphics_example_02_panel_withButtons/Graphics_example_02_panel_withButtons.iml" filepath="$PROJECT_DIR$/Graphics_example_02_panel_withButtons/Graphics_example_02_panel_withButtons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphics_example_03_multiplePanels/Graphics_example_03_multiplePanels.iml" filepath="$PROJECT_DIR$/Graphics_example_03_multiplePanels/Graphics_example_03_multiplePanels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphics_example_04_menu/Graphics_example_04_menu.iml" filepath="$PROJECT_DIR$/Graphics_example_04_menu/Graphics_example_04_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Panels_Graphics_Basics/Panels_Graphics_Basics.iml" filepath="$PROJECT_DIR$/Panels_Graphics_Basics/Panels_Graphics_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sample Code.iml" filepath="$PROJECT_DIR$/.idea/Sample Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/button_images/button_images.iml" filepath="$PROJECT_DIR$/button_images/button_images.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutBorderLayout/layoutBorderLayout.iml" filepath="$PROJECT_DIR$/layoutBorderLayout/layoutBorderLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutGridLayout/layoutGridLayout.iml" filepath="$PROJECT_DIR$/layoutGridLayout/layoutGridLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/layoutNullLayoutNEW/layoutNullLayoutNEW.iml" filepath="$PROJECT_DIR$/layoutNullLayoutNEW/layoutNullLayoutNEW.iml" />
+    </modules>
+  </component>
+</project>

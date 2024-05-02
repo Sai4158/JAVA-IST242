@@ -1,0 +1,7 @@
+Name, Average, Grade
+Smith, 73.75, C
+Jones, 84.00, B
+Wilson, 85.00, B
+Michaels, 60.50, D
+Gray, 67.00, D
+Thomas, 58.75, F

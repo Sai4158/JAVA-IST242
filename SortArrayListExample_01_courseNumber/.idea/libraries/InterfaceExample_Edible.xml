@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="InterfaceExample_Edible">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/InterfaceExample_Edible.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

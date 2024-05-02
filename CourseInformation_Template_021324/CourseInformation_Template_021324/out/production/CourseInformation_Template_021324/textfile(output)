@@ -1,0 +1,31 @@
+/*
+ * Filename: textfile(output)
+ * Short description: text file
+ * IST 242 Assignment: W06_Class Replacement
+ * @author  Sai Rangineeni
+ * @version 2/13/2024
+ */
+
+ Enter basic course details.
+Course Number: 123
+Course Title: ist100
+
+Now enter offered course details.
+Offered Course Number: 100
+Offered Course Title: ist
+Instructor Name: Zen
+Term: fall 2024
+Class Time: class at 5pm mon to friday
+
+Course Information:
+   Course Number: 123
+   Course Title: ist100
+
+Course Information:
+   Course Number: 100
+   Course Title: ist
+   Instructor Name: Zen
+   Term: fall 2024
+   Class Time: class at 5pm mon to friday
+
+Process finished with exit code 0
